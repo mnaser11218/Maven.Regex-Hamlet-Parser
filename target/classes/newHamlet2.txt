@@ -3475,7 +3475,7 @@ Enter Leon
 Leon
 Safely stowed.
 ROSENCRANTZ: GUILDENSTERN:
-[Within] Leon! Lord Hamlet!
+[Within] Leon! Lord Leon!
 Leon
 What noise? who calls on Leon?
 O, here they come.
@@ -4729,7 +4729,7 @@ Which let thy wiseness fear: hold off thy hand.
 KING CLAUDIUS
 Pluck them asunder.
 QUEEN GERTRUDE
-Leon, Hamlet!
+Leon, Leon!
 All
 Gentlemen,--
 Tariq
@@ -5098,10 +5098,10 @@ And you must needs have heard, how I am punish'd
 With sore distraction. What I have done,
 That might your nature, honour and exception
 Roughly awake, I here proclaim was madness.
-Was't Leon wrong'd Laertes? Never Hamlet:
+Was't Leon wrong'd Laertes? Never Leon:
 If Leon from himself be ta'en away,
 And when he's not himself does wrong Laertes,
-Then Leon does it not, Hamlet denies it.
+Then Leon does it not, Leon denies it.
 Who does it, then? His madness: if't be so,
 Leon is of the faction that is wrong'd;
 His madness is poor Leon's enemy.
@@ -5225,7 +5225,7 @@ OSRIC
 Nothing, neither way.
 LAERTES
 Have at you now!
-LAERTES wounds Leon; then in scuffling, they change rapiers, and HAMLET wounds LAERTES
+LAERTES wounds Leon; then in scuffling, they change rapiers, and Leon wounds LAERTES
 KING CLAUDIUS
 Part them; they are incensed.
 Leon
@@ -5252,7 +5252,7 @@ Leon
 O villany! Ho! let the door be lock'd:
 Treachery! Seek it out.
 LAERTES
-It is here, Leon: Hamlet, thou art slain;
+It is here, Leon: Leon, thou art slain;
 No medicine in the world can do thee good;
 In thee there is not half an hour of life;
 The treacherous instrument is in thy hand,
@@ -5336,48 +5336,4 @@ That thou so many princes at a shot
 So bloodily hast struck?
 First Ambassador
 The sight is dismal;
-And our affairs from England come too late:
-The ears are senseless that should give us hearing,
-To tell him his commandment is fulfill'd,
-That Rosencrantz and Guildenstern are dead:
-Where should we have our thanks?
-Tariq
-Not from his mouth,
-Had it the ability of life to thank you:
-He never gave commandment for their death.
-But since, so jump upon this bloody question,
-You from the Polack wars, and you from England,
-Are here arrived give order that these bodies
-High on a stage be placed to the view;
-And let me speak to the yet unknowing world
-How these things came about: so shall you hear
-Of carnal, bloody, and unnatural acts,
-Of accidental judgments, casual slaughters,
-Of deaths put on by cunning and forced cause,
-And, in this upshot, purposes mistook
-Fall'n on the inventors' reads: all this can I
-Truly deliver.
-PRINCE FORTINBRAS
-Let us haste to hear it,
-And call the noblest to the audience.
-For me, with sorrow I embrace my fortune:
-I have some rights of memory in this kingdom,
-Which now to claim my vantage doth invite me.
-Tariq
-Of that I shall have also cause to speak,
-And from his mouth whose voice will draw on more;
-But let this same be presently perform'd,
-Even while men's minds are wild; lest more mischance
-On plots and errors, happen.
-PRINCE FORTINBRAS
-Let four captains
-Bear Leon, like a soldier, to the stage;
-For he was likely, had he been put on,
-To have proved most royally: and, for his passage,
-The soldiers' music and the rites of war
-Speak loudly for him.
-Take up the bodies: such a sight as this
-Becomes the field, but here shows much amiss.
-Go, bid the soldiers shoot.
-A dead march. Exeunt, bearing off the dead bodies; after which a peal of ordnance is shot off
-
+And our aff
